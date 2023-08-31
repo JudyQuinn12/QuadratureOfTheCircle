@@ -1,0 +1,57 @@
+﻿SOURCE,TARGET,RELATION,RELATION CONTEXT,LITERARY SOURCE,SOURCE TYPE
+"Plutarch of Khaironeia, L. Mestrius",Anaxagoras of Klazomenai,Back Reference,Mention of Work,On Exile by Plutarch,Part of the Moralia - a series of essays on morals
+Aristophanes,Meton of Athens,Back Reference,Mention of Work,Birds by Aristophanes,Play - Comedy
+Aristotle,Antiphon of Athens,Back Reference,Mention of Work,Physics by Aristotle,Philosophical Treatises
+Themistios of Buzantion,Aristotle,Commentary,Commentator,Commentary on Physics by Themistius,Philosophical Commentary designed to facilitate study
+Themistios of Buzantion,Antiphon of Athens,Back Reference,Description of Work,Commentary on Physics by Themistius,Philosophical Commentary designed to facilitate study
+Themistios of Buzantion,Hippokrates of Khios,Back Reference,Description of Work,Commentary on Physics by Themistius,Philosophical Commentary designed to facilitate study
+Simplicius of Kilikia,Aristotle,Commentary,Commentator,Commentary on Physics by Simplicius,Philosophical Commentary
+Simplicius of Kilikia,Antiphon of Athens,Back Reference,Description of Work,Commentary on Physics by Simplicius,Philosophical Commentary
+Simplicius of Kilikia,Alexander of Aphrodisias,Back Reference,Mention,Commentary on Physics by Simplicius,Philosophical Commentary
+Simplicius of Kilikia,Euclid of Alexandria,Back Reference,Mention,Commentary on Physics by Simplicius,Philosophical Commentary
+Simplicius of Kilikia,Eudemos of Rhodes,Back Reference,Mention,Commentary on Physics by Simplicius,Philosophical Commentary
+Simplicius of Kilikia,Archimedes of Surakousai,Back Reference,Mention of Work,Commentary on Physics by Simplicius,Philosophical Commentary
+Eudemos of Rhodes,Antiphon of Athens,Back Reference,Mention of Work,Commentary on Physics by Simplicius,Philosophical Commentary
+Alexander of Aphrodisias,Aristotle,Commentary,Commentator,Commentary on Sophistic Refutations by Alexander,Philosophical Commentary
+Alexander of Aphrodisias,Bruson of Herakleia Pontike,Back Reference,Description of Work,Commentary on Sophistic Refutations by Alexander,Philosophical Commentary
+Proklos of Lukia,Euclid of Alexandria,Commentary,Commentator,On Euclid by Proclos,Mathematical Commentary
+Proklos of Lukia,Archimedes of Surakousai,Back Reference,Description of Work,On Euclid by Proclos,Mathematical Commentary
+Proklos of Lukia,Hippokrates of Khios,Back Reference,Description of Work,On Euclid by Proclos,Mathematical Commentary
+Eutokios of Askalon,Apollonius of Perge,Back Reference,Description of Work,Commentary on the Measurement of the Circle by Eutocius,Mathematical Commentary
+Eutokios of Askalon,Archimedes of Surakousai,Commentary,Commentator,Commentary on the Measurement of the Circle by Eutocius,Mathematical Commentary
+Simplicius of Kilikia,Aristotle,Commentary,Commentator,On Aristotle's Categories by Simplicius,Philosophical Commentary
+Simplicius of Kilikia,Iamblikhos of Khalkis (Syria),Back Reference,Mention,On Aristotle's Categories by Simplicius,Philosophical Commentary
+Iamblikhos of Khalkis (Syria),"Sextius, Q the Pythagorean",Back Reference,Mention of Work,On Aristotle's Categories by Simplicius,Philosophical Commentary
+Iamblikhos of Khalkis (Syria),Archimedes of Surakousai,Back Reference,Mention of Work,On Aristotle's Categories by Simplicius,Philosophical Commentary
+Iamblikhos of Khalkis (Syria),Nikomedes,Back Reference,Mention of Work,On Aristotle's Categories by Simplicius,Philosophical Commentary
+Iamblikhos of Khalkis (Syria),Apollonius of Perge,Back Reference,Mention of Work,On Aristotle's Categories by Simplicius,Philosophical Commentary
+Iamblikhos of Khalkis (Syria),Karpos of Antioch,Back Reference,Mention of Work,On Aristotle's Categories by Simplicius,Philosophical Commentary
+Pappos of Alexandria,Deinostratos of Prokonessos,Back Reference,Description of Work,Collection by Pappos,Mathematical Treatise
+Pappos of Alexandria,Nikomedes,Back Reference,Description of Work,Collection by Pappos,Mathematical Treatise
+Pappos of Alexandria,Sporus of Nikaia,Back Reference,Description of Work,Collection by Pappos,Mathematical Treatise
+Pappos of Alexandria,Archimedes of Surakousai,Back Reference,Mention of Work,Collection by Pappos,Mathematical Treatise
+Archimedes of Surakousai,Euclid of Alexandria,Indirect Back Reference,Mention of Work,Measurement of a Circle,Mathematical Treatise
+Heron of Alexandria,Archimedes of Surakousai,Back Reference,Mention of Work,Metrica,Mathematical Treatise
+Ptolemy,Archimedes of Surakousai,Back Reference,Mention of Work,Algamest,Geographical Treatise
+2 Chronicles 4:2,1 Kings 7:23,Back Reference,Mention,Bible,Theological Work
+Moscow Papyrus Problem 10,,No relations,,Moscow Papyrys,Mathematical Papyrus
+Kahun Papyrus IV. 3 Cols. 15-14,,No relations,,Kahun Papyrus,Mathematical Papyrus
+"Rhind Papyrus Problem 41, 42, 43",,No relations,,Rhind Papyrys,Mathematical Papyrus
+TMS p.025 P254835,,No relations,,TMS p.025 P254835,Cuneiform Tablet
+"MCT 044, YBC 07302 P255051",,No relations,,"MCT 044, YBC 07302 P255051",Cuneiform Tablet
+MCT 057 (P255065) ,,No relations,,MCT 057 (P255065) ,Cuneiform Tablet
+Aristotle,Bruson of Herakleia Pontike,Back Reference,Description of Work,"Posterior Analytics, Sophistic Refutations",Philosophical Treatise
+Aristotle,Hippokrates of Khios,Back Reference,Mention of Work,Sophistic Refutations,Philosophical Treatise
+Plato,,No relations,Mention,Repiblic,Philosophical Treatise
+Galen of Pergamon,,,Mention,De Animi Cuicslibet precatorium digitone et curatiore,Medical Treatise
+Marinos of Neapolis,Euclid of Alexandria,Commentary,Description of Work,Commentary on Euclid's Data,Mathematical Treatise
+Joannes Philoponis,Hippokrates of Khios,Back Reference,Mention of Work,Commentary on Physics by Philoponis,Philosophical Commentary
+Joannes Philoponis,Antiphon of Athens,Back Reference,Mention of Work,Commentary on Physics by Philoponis,Philosophical Commentary
+Joannes Philoponis,Aristotle,Back Reference,Mention,Commentary on Physics by Philoponis,Philosophical Commentary
+Joannes Philoponis,Bruson of Herakleia Pontike,Back Reference,Description of Work,Commentary on Posterior Analytics by Aristotle,Philosophical Commentary
+Joannes Philoponis,Aristotle,Back Reference,Mention,Commentary on Posterior Analytics by Aristotle,Philosophical Commentary
+Joannes Philoponis,Alexander of Aphrodisias,Back Reference,Mention of Work,Commentary on Posterior Analytics by Aristotle,Philosophical Commentary
+Joannes Philoponis,Proklos of Lukia,Back Reference,Mention of Work,Commentary on Posterior Analytics by Aristotle,Philosophical Commentary
+Proklos of Lukia,Hippias of Elis,Back Reference,Mention of Work,On Euclid by Proclos,Mathematical Commentary
+Euclid of Alexandria,Eudoxos of Knidos,Indirect Back Reference,Mention of Work,Elements,Mathematical Treatise
+Proklos of Lukia,Eudoxos of Knidos,Back Reference,Mention of Work,On Euclid by Proclos,Mathematical Commentary
